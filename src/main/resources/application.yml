@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: url-shortener
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+application:
+  timeToExpire: 3d
+  baseUrl: 'http://localhost:8080/'
+
