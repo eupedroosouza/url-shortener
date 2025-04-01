@@ -1,4 +1,5 @@
 # Encurtador de URLs
+*Este é o meu primeiro projeto Spring que faz algum sentido, estou muito feliz por ingressar no universo Spring! :)*
 
 ### https://github.com/backend-br/desafios
 
